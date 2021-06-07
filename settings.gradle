@@ -1,0 +1,5 @@
+rootProject.name = "Library001"
+include ':app'
+include ':commons'
+include ':core'
+include ':utils'
